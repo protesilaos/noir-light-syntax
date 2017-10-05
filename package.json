@@ -1,0 +1,18 @@
+{
+  "name": "noir-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A low contrast theme with subtle colours.",
+  "keywords": [
+    "syntax",
+    "yellow",
+    "cyan",
+    "green",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/noir-light-syntax",
+  "license": "GPL-3.0",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
